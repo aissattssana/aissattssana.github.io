@@ -1,0 +1,246 @@
+body 
+{
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: bold;
+    src: url(IBMPlexSans-Bold.ttf)
+        width: 80%;
+max-width: 720px;
+    padding: 40px;
+}
+
+#header
+{
+   position: absolute;
+    width: 1920px;
+    height: 189px;
+    left: 0;
+    top: 0;
+    background-image: url(head.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+}
+
+
+
+
+#menu
+{
+    position: absolute;
+    width: 1920px;
+    height:1712px;
+    left: 0px;
+    top: 189px;
+    background-image: url(menu.jpg);
+}
+
+#footer 
+{
+    position: absolute;
+width: 1920px;
+height: 170px;
+left: 0px;
+top: 1900px;
+    background-image: url(album_03.jpg);
+}
+text1
+{ /*заголовок*/
+position: absolute;
+width: 1327px;
+height: 127px;
+left: 651px;
+top: 44px;
+font-size: 70px;
+line-height: 91px;
+
+color: #000000;
+}
+
+text2 
+{/*цветы*/
+    position: absolute;
+width: 706px;
+height: 142px;
+left: 280px;
+top: 45px;
+
+font-weight: 800;
+font-size: 60px;
+line-height: 82px;
+
+color: #000000;
+}
+
+text3
+{
+    /* букеты */
+position: absolute;
+width: 706px;
+height: 142px;
+left: 280px;
+top: 190px;
+
+font-weight: 800;
+font-size: 60px;
+line-height: 82px;
+
+color: #000000;
+}
+
+text4 
+{
+    /* аксессуары */
+position: absolute;
+width: 706px;
+height: 142px;
+left: 280px;
+top: 320px;
+
+font-weight: 800;
+font-size: 60px;
+line-height: 82px;
+
+color: #000000;
+}
+
+text5
+{ /* Привезем быстро и аккуратно! */
+position: absolute;
+width: 569px;
+height: 160px;
+left: 160px;
+top: 508px;
+
+font-size: 48px;
+line-height: 62px;
+
+color: #000000;
+}
+
+text6
+{/* Осуществим все желания! */
+position: absolute;
+width: 657px;
+height: 151px;
+left: 480px;
+top: 702px;
+
+font-size: 48px;
+line-height: 62px;
+
+color: #000000;
+}
+
+text7
+{/* Актуальные идеи */
+position: absolute;
+width: 706px;
+height: 142px;
+left: 114px;
+top: 935px;
+
+font-weight: 900;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+}
+
+text8
+{/* Главная */
+position: absolute;
+width: 148px;
+height: 47px;
+left: 609px;
+top: 10px;
+
+font-size: 34px;
+line-height: 44px;
+
+color: #000000;
+    opacity: 0.75;
+}
+
+text9
+{/* Оплата */
+position: absolute;
+width: 148px;
+height: 47px;
+left: 797px;
+top: 10px;
+
+font-size: 34px;
+line-height: 44px;
+
+color: #000000;
+
+opacity: 0.75;}
+
+text10
+{ /* Доставка */
+position: absolute;
+width: 198px;
+height: 47px;
+left: 967px;
+top: 10px;
+
+font-size: 34px;
+line-height: 44px;
+
+color: #000000;
+
+opacity: 0.75;}
+
+text11
+{/* Каталог */
+position: absolute;
+width: 148px;
+height: 47px;
+left: 1187px;
+top: 10px;
+    
+font-size: 34px;
+line-height: 44px;
+
+color: #000000;
+
+opacity: 0.75; }
+
+text12
+{ /* О компании */
+position: absolute;
+width: 251px;
+height: 47px;
+left: 735px;
+top: 79px;
+
+font-size: 34px;
+line-height: 44px;
+
+color: #000000;
+
+opacity: 0.75;}
+
+text13
+{/* Контакты */
+position: absolute;
+width: 214px;
+height: 47px;
+left: 1002px;
+top: 79px;
+
+font-size: 34px;
+line-height: 44px;
+
+color: #000000;
+
+opacity: 0.75;}
+
+profile
+{
+    position: absolute;
+width: 70px;
+height: 70px;
+left: 1765px;
+top: 66px;
+}
